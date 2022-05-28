@@ -1,10 +1,13 @@
 # TikTok
 IOS
 TikTok在IOS端免拔卡使用条件：
-1:美区ID
-2:下载小火箭
-3：配置小火箭
-4：采用Fiddle+i4Tools爱思工具+Ituns+美区AppleID, 下载旧版本的TikTok（21.1.0）安装
+1:美区ID<br>
+
+2:下载小火箭<br>
+
+3：配置小火箭<br>
+
+4：采用Fiddle+i4Tools爱思工具+Ituns+美区AppleID, 下载旧版本的TikTok（21.1.0）安装<br>
 
 Shadowrocket配置文件代码：
 ```bash
