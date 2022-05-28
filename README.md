@@ -23,3 +23,18 @@ hostname = *.tiktokv.com,*.byteoversea.com,*.tik-tokapi.com,-*snssdk.com, -*amem
 注：国家JP可更改对应地区简写，如美区简写US
 
 [Dolphinanty  TikTok免费专版指纹浏览器下载](https://bit.ly/3wMXt3q)
+
+
+Fiddle使用方法：
+1：安装
+2：Tools→Options→Https→Decrypt Https traffic→Check for Certificate revocation → Actions→Trust Root Certificat→Yes →是 →是 →确定→ OK
+
+COPY Fiddle Code: 
+```bash
+bpu MZBuy.woa
+```
+
+TikTok版本ID：
+```bash
+844024073、843972181
+```
