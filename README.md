@@ -18,7 +18,7 @@ Shadowrocket配置文件代码：
 (^https?:\/\/*\.\w{4}okv.com\/.+&.+)(\d{2}\.3\.\d)(.+) $118.0$3 302
 
 [MITM]
-hostname = *.tiktokv.com,*.byteoversea.com,*.tik-tokapi.com,-*snssdk.com, -*amemv.com
+hostname = *.tiktokv.com,*.byteoversea.com,*.tik-tokapi.com
 ```
 注：国家JP可更改对应地区简写，如美区简写US
 
