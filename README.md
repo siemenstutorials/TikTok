@@ -1,8 +1,8 @@
 # TikTok
 IOS
-TikTok在IOS端免拔卡使用条件：
+TikTok在IOS端免拔卡使用条件：<br>
 1:美区ID<br>
-
+[TikTok小火箭专用免费ID](https://bgpnet.org/auth/register?code=bPpx)
 2:下载小火箭<br>
 
 3：配置小火箭<br>
