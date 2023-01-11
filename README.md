@@ -1,10 +1,12 @@
 # TikTok
+[鲁米KYC注册专用优惠认证链接](https://bit.ly/3fRXdH7)<br>
+
+[TiKTok静态住宅ISP专线购买 5条起订](https://t.me/siemenstutorial)<br>
 IOS
 TikTok在IOS端免拔卡使用条件：<br>
 1:美区ID<br>
 [TikTok小火箭共享免费ID](https://vturay.com)<br>
-[TiKTok静态住宅ISP专线购买 5条起订](https://t.me/siemenstutorial)
-[鲁米KYC注册专用链接](https://bit.ly/3fRXdH7)
+
 2:下载小火箭<br>
 
 3：配置小火箭<br>
