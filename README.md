@@ -11,7 +11,7 @@ TikTok在IOS端免拔卡使用条件：<br>
 
 4：采用Fiddle+i4Tools爱思工具+Ituns+美区AppleID, 下载旧版本的TikTok（21.1.0）安装<br>
 
-4.1 <b> [iOS旧版应用下载v5.1]()+i4Tools爱思工具+Ituns+美区AppleID, 下载旧版本的TikTok（21.1.0）安装 (2023.1.11)</b><br>
+4.1 <b> [iOS旧版应用下载v5.1](https://github.com/siemenstutorials/TikTok/releases/download/v23.1.11/iOS.v5.1.zip)+i4Tools爱思工具+Ituns+美区AppleID, 下载旧版本的TikTok（21.1.0）安装 (2023.1.11更新)</b><br>
 
 Shadowrocket配置文件代码：
 ```bash
